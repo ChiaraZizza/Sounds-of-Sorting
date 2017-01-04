@@ -1,12 +1,8 @@
 package edu.grinnell.sortingvisualizer.sorts;
-
 import static org.junit.Assert.assertArrayEquals;
-
 import java.util.Arrays;
 import java.util.List;
-
 import org.junit.Test;
-
 import edu.grinnell.sortingvisualizer.sortevents.SortEvent;
 
 public class SortsTest {
