@@ -90,10 +90,6 @@ public class Sorts {
 	}
 	
 	/** Takes an array and performs the sorting algorithm mergeSort on it
-	 * 
-	 * Takes an array and recursively sorts it by breaking the array into two halves
-	 * and sorts those halves recursively.
-	 * 
 	 * @param arr an array of type T
 	 */
 	public static <T extends Comparable<T>> List<SortEvent<T>> mergeSort(T[] arr) {
