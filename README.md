@@ -1,6 +1,6 @@
 # Sounds-of-Sorting
 
-Description: This code builds both a visualizer and audibilizer for six algorithims: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort, and Shell Sort. It was written in Java using the Eclipse IDE, JUnit Testing, and Java interfaces.
+Description: This code builds both a visualizer and audibilizer for six algorithims: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort, and Shell Sort. It was written in Java using the Eclipse IDE, JUnit Testing, the List interface, and recursion.
 
 Contributors: Ella Nicolson and Chiara Zizza
 
