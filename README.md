@@ -1,6 +1,6 @@
 # Sounds-of-Sorting
 
-Description: This code builds both a visualizer and audibilizer for various sorting algorithms utilizing list implementations. It was written using Java.
+Description: This code builds both a visualizer and audibilizer for various sorting algorithms utilizing list implementations. It was written in Java using the Eclipse IDE.
 
 Contributors: Ella Nicolson and Chiara Zizza
 
