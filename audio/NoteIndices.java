@@ -33,7 +33,7 @@ public class NoteIndices {
     
     /**
      * Reinitializes this collection of indices to map into a new scale object
-     * of the given size.  The collection is also shuffled to provide an
+     * of the given size. The collection is also shuffled to provide an
      * initial starting point for the sorting process.
      * @param n the size of the scale object that these indices map into
      */
